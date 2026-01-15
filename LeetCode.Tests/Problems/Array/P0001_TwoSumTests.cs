@@ -2,6 +2,7 @@
 
 namespace LeetCode.Tests.Problems.Array
 {
+    [Trait("Category", "Unit")]
     public class P0001_TwoSumTests
     {
         [Theory(DisplayName = "Should return the two indexes that sum up to the target value")]

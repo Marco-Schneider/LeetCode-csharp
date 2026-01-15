@@ -2,6 +2,7 @@
 
 namespace LeetCode.Tests.Problems.String
 {
+    [Trait("Category", "Unit")]
     public class P0389_FindTheDifferenceTests
     {
         [Theory(DisplayName = "Should return the character that was added")]

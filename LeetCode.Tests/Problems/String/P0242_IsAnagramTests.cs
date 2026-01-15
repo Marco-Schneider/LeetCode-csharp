@@ -2,6 +2,7 @@
 
 namespace LeetCode.Tests.Problems.String
 {
+    [Trait("Category", "Unit")]
     public class P0242_IsAnagramTests
     {
         [Theory(DisplayName = "Should correctly determine if the test string t is an anagram of s")]

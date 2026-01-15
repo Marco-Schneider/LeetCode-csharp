@@ -2,6 +2,7 @@
 
 namespace LeetCode.Tests.Problems.String
 {
+    [Trait("Category", "Unit")]
     public class P0028_StrStrTests
     {
         [Theory(DisplayName = "Should return the index if substring is found, otherwise should return -1")]

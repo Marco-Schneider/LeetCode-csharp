@@ -2,6 +2,7 @@
 
 namespace LeetCode.Tests.Problems.String
 {
+    [Trait("Category", "Unit")]
     public class P1768_MergeAlternatelyTests
     {
 

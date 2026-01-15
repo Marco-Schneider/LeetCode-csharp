@@ -2,6 +2,7 @@
 
 namespace LeetCode.Tests.Problems.Array
 {
+    [Trait("Category", "Unit")]
     public class P0128_LongestConsecutiveTests
     {
         [Theory(DisplayName = "Should correctly calculate the count of the longest integer sequence within the array")]
